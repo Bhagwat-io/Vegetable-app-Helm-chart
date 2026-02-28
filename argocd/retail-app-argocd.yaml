@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: vegetable-app
+  name: vegetable-web-app
   namespace: argocd
 spec:
   project: default
